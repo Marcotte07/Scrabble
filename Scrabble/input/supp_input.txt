@@ -1,0 +1,44 @@
+4
+playerA
+n
+playerB
+n
+playerC
+y
+playerD
+y
+PLACE - 8 8 DIM
+
+PLACE | 7 9 J?NX
+
+
+
+place - 5 12 ?DOZ
+
+place | 2 12 see
+
+
+
+place - 10 7 ve
+
+place | 11 7 end
+
+
+
+place - 11 13 t
+
+place - 15 6 ra
+
+
+
+exchange hinv
+
+place - 11 5 li
+
+
+
+place - 9 1 ca
+
+place | 6 2 gal
+
+
